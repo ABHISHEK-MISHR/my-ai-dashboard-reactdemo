@@ -4,7 +4,7 @@ import { useState, useRef, useEffect, useCallback } from "react";
 // 🔑 STEP 1: Apni Gemini API Key yahan paste karo
 //    aistudio.google.com → "Get API Key" → Copy karo → yahan paste karo
 // ─────────────────────────────────────────────────────────────────────────────
-const GEMINI_API_KEY = "AIzaSyCoIn1SPcoQcuO7fUHCD7rx9U85CPbyjAY"; // ← sirf yahi ek jagah change karo!
+const GEMINI_API_KEY = "AIzaS9U85CPbyjAY"; // ← sirf yahi ek jagah change karo!
 
 // ─── GEMINI API CALL ──────────────────────────────────────────────────────────
 // Yeh function Gemini API ko call karta hai
